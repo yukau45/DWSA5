@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.automation.test_scripts.TC_Cart_002_Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.774 s -- in org.automation.test_scripts.TC_Cart_002_Test

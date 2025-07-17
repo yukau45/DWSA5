@@ -1,0 +1,12 @@
+org\automation\generic_utilities\FLib.class
+org\automation\generic_utilities\MyListener.class
+org\automation\element_repository\BasePage.class
+org\automation\generic_utilities\WebDriverUtil.class
+org\automation\generic_utilities\DataProviderClass.class
+org\automation\generic_utilities\ActionsUtil.class
+org\automation\generic_utilities\BaseTest.class
+org\automation\element_repository\RegisterPage.class
+org\automation\element_repository\LoginPage.class
+org\automation\generic_utilities\JavaUtil.class
+org\automation\generic_utilities\JavaScriptUtil.class
+org\automation\generic_utilities\IAutoConstants.class

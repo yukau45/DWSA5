@@ -10,7 +10,6 @@ public class MSDhoni {
 	    	 WebDriver driver = new ChromeDriver();
 	    	 driver.manage().window().maximize();
 	    	 driver.get("https://en.wikipedia.org/wiki/MS_Dhoni");
-	    	 driver.close();
 	    	 driver.quit();
 	  }
 }
